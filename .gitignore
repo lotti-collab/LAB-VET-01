@@ -1,0 +1,13 @@
+# Dados e credenciais locais
+.env
+.env.*
+!.env.example
+*.csv
+*.zip
+*.parquet
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/

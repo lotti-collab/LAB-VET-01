@@ -1,0 +1,6 @@
+﻿numpy
+pandas
+scikit-learn
+xgboost
+neo4j
+python-dotenv
